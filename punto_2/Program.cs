@@ -8,6 +8,7 @@
         static void Main(string[] args)
         {
             string alimento;
+            string mensaje;
 
             Cocinar delegado ;
 
@@ -20,8 +21,9 @@
             Console.WriteLine("ingrese el alimento de va cortar, hervir, saltear");
             alimento=Console.ReadLine();
 
-            delegado.Invoke(alimento);
-            
+
+            Console.WriteLine(delegado(alimento));
+
 
         }
 

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\B09S116est\\source\\repos\\punto_2\\punto_2.csproj": {}
+    "C:\\Users\\B09S116est\\taller-2-scriptim\\punto_2\\punto_2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\B09S116est\\source\\repos\\punto_2\\punto_2.csproj": {
+    "C:\\Users\\B09S116est\\taller-2-scriptim\\punto_2\\punto_2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\B09S116est\\source\\repos\\punto_2\\punto_2.csproj",
+        "projectUniqueName": "C:\\Users\\B09S116est\\taller-2-scriptim\\punto_2\\punto_2.csproj",
         "projectName": "punto_2",
-        "projectPath": "C:\\Users\\B09S116est\\source\\repos\\punto_2\\punto_2.csproj",
+        "projectPath": "C:\\Users\\B09S116est\\taller-2-scriptim\\punto_2\\punto_2.csproj",
         "packagesPath": "C:\\Users\\B09S116est\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\B09S116est\\source\\repos\\punto_2\\obj\\",
+        "outputPath": "C:\\Users\\B09S116est\\taller-2-scriptim\\punto_2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
