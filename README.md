@@ -12,6 +12,7 @@ public void Equis()
 {
 
 }
+
 ej2:
 firma:
 public delegate int[] y(bool x, float y);
@@ -20,6 +21,7 @@ Public int[] y((bool x, float y);
 {
 return new int[] {1, 2, 3};
 }
+
 ej3:
 firma:
 public int sumar(int numero1, int numero2)
@@ -28,6 +30,7 @@ public static int Sumar(int numero1, int numero2)
 {
     return numero1 + numero2;
 }
+
 ej4: 
 firma:
 public int restar(int numero1, int numero2)
@@ -36,11 +39,19 @@ public static int Restar(int numero1, int numero2)
 {
     return numero1 - numero2;
 }
+
 ej5:
 public static duble sumarduble(duble numero1,duble numero2)
 
 tarea: numeros, arreglos, objetos, matrices
+eje6:
 
+public delegate string[] Vehiculo(string caballo);
+
+public static string[] Vehiculofuncion(string caballo)
+{
+retrum moto;
+}
 
 
 
