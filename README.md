@@ -1,4 +1,13 @@
 # taller-2-scriptim
+
+1. Explicar por medio de un ejemplo de mínimo 5 funciones el concepto de delegado
+2. Consultar y crear un ejemplo donde se evidencie el uso de event en  **c#** 
+3. Consultar que es singleton, sus pros y contras, como se implementa en  **c#** y como se implementa en  **unity**
+4. Investigar y explicar un patrón de poo y un principio 
+5. consultar y explicar el siclo de vida de un script en  **unity**
+6. hacer 30 funciones
+
+## solucion
 3. consultar y crear un ejemplo donde se evidencie el uso de event en c#
    Events.
 Un evento es un mensaje que envía un objeto cuando ocurre una acción. La acción podría deberse a la interacción del usuario, como hacer clic en un botón, o podría derivarse de cualquier otra lógica del programa, como el cambio del valor de una propiedad.
