@@ -60,3 +60,8 @@ int ContarCaracteres(string cadena)
 {
     return cadena.Length;
 }
+
+string ConvertirAMinusculas(string cadena)
+{
+    return cadena.ToLower();
+}
