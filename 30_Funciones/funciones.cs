@@ -75,3 +75,8 @@ string ConvertirAMayusculas(string cadena)
 {
     return cadena.ToUpper();
 }
+
+double AreaTriangulo(double base, double altura)
+{
+    return (base * altura) / 2;
+}
