@@ -8,7 +8,7 @@
 2. Consultar y crear un ejemplo donde se evidencie el uso de event en  **c#** 
 3. Consultar que es singleton, sus pros y contras, como se implementa en  **c#** y como se implementa en  **unity**
 4. Investigar y explicar un patrón de poo y un principio 
-5. consultar y explicar el siclo de vida de un script en  **unity**
+5. consultar y explicar el ciclo de vida de un script en  **unity**
 6. hacer 30 commits
 
 ## solucion
