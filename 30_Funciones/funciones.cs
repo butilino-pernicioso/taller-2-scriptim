@@ -50,3 +50,8 @@ bool EsImpar(int num)
 {
     return num % 2 != 0;
 }
+
+double AreaCirculo(double radio)
+{
+    return Math.PI * Math.Pow(radio, 2);
+}
