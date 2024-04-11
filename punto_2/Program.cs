@@ -3,7 +3,7 @@
     internal class Program
     {
         
-        public delegate string Cocinar (string c);
+        public delegate void Cocinar (string c);
 
         static void Main(string[] args)
         {
@@ -13,42 +13,69 @@
             Cocinar delegado ;
 
 
-            delegado = Cortar;
+            delegado = Marinar;
+            delegado += Cortar;
             delegado += Hervir;
             delegado += Saltear;
-            
+            delegado += Servir;
+
 
             Console.WriteLine("ingrese el alimento de va cortar, hervir, saltear");
             alimento=Console.ReadLine();
 
 
-            Console.WriteLine(delegado(alimento));
+            delegado(alimento);
 
 
         }
 
-        public static string Hervir (string c) 
+        public static void Hervir (string c) 
         {
-            string ret;
-            ret = c + " hervir";
 
-            return  ret ;
+            Console.WriteLine(  c + " hervir");
+
+           
         }
 
-        public static string Saltear (string c)
+        public static void Saltear(string c)
         {
-            string ret;
-            ret = c + " saltear";
 
-            return ret;
+            Console.WriteLine(c + " saltear");
+
+
         }
 
-        public static string Cortar (string c) 
+        public static void Cortar(string c)
         {
-            string ret;
-            ret = c + " cortar";
 
-            return ret;
+            Console.WriteLine(c + " Cortar");
+
+
         }
+
+        public static void Servir(string c)
+        {
+
+            Console.WriteLine(c + " servir");
+
+
+        }
+
+        public static void Marinar(string c)
+        {
+
+            Console.WriteLine(c + " marinar");
+
+
+        }
+        //public static string Saltear (string c)
+        //{
+        //    string ret;
+        //    ret = c + " saltear";
+
+        //    return ret;
+        //}
+
+   
     }
 }

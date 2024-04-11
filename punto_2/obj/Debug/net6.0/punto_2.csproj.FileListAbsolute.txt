@@ -26,3 +26,18 @@ C:\Users\B09S116est\taller-2-scriptim\punto_2\obj\Debug\net6.0\refint\punto_2.dl
 C:\Users\B09S116est\taller-2-scriptim\punto_2\obj\Debug\net6.0\punto_2.pdb
 C:\Users\B09S116est\taller-2-scriptim\punto_2\obj\Debug\net6.0\punto_2.genruntimeconfig.cache
 C:\Users\B09S116est\taller-2-scriptim\punto_2\obj\Debug\net6.0\ref\punto_2.dll
+C:\Users\Lenovo\taller 2\taller-2-scriptim\punto_2\bin\Debug\net6.0\punto_2.exe
+C:\Users\Lenovo\taller 2\taller-2-scriptim\punto_2\bin\Debug\net6.0\punto_2.deps.json
+C:\Users\Lenovo\taller 2\taller-2-scriptim\punto_2\bin\Debug\net6.0\punto_2.runtimeconfig.json
+C:\Users\Lenovo\taller 2\taller-2-scriptim\punto_2\bin\Debug\net6.0\punto_2.dll
+C:\Users\Lenovo\taller 2\taller-2-scriptim\punto_2\bin\Debug\net6.0\punto_2.pdb
+C:\Users\Lenovo\taller 2\taller-2-scriptim\punto_2\obj\Debug\net6.0\punto_2.csproj.AssemblyReference.cache
+C:\Users\Lenovo\taller 2\taller-2-scriptim\punto_2\obj\Debug\net6.0\punto_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\taller 2\taller-2-scriptim\punto_2\obj\Debug\net6.0\punto_2.AssemblyInfoInputs.cache
+C:\Users\Lenovo\taller 2\taller-2-scriptim\punto_2\obj\Debug\net6.0\punto_2.AssemblyInfo.cs
+C:\Users\Lenovo\taller 2\taller-2-scriptim\punto_2\obj\Debug\net6.0\punto_2.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\taller 2\taller-2-scriptim\punto_2\obj\Debug\net6.0\punto_2.dll
+C:\Users\Lenovo\taller 2\taller-2-scriptim\punto_2\obj\Debug\net6.0\refint\punto_2.dll
+C:\Users\Lenovo\taller 2\taller-2-scriptim\punto_2\obj\Debug\net6.0\punto_2.pdb
+C:\Users\Lenovo\taller 2\taller-2-scriptim\punto_2\obj\Debug\net6.0\punto_2.genruntimeconfig.cache
+C:\Users\Lenovo\taller 2\taller-2-scriptim\punto_2\obj\Debug\net6.0\ref\punto_2.dll
