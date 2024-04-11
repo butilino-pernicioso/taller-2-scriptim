@@ -65,3 +65,8 @@ string ConvertirAMinusculas(string cadena)
 {
     return cadena.ToLower();
 }
+
+int LCM(int a, int b)
+{
+    return (a * b) / MCD(a, b);
+}
