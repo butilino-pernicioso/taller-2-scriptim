@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "veAy+vKXBq3BYk2BgUSlNJH6pbqcCzgqmMyEwWtSmqfyDhsBOMTEZSbScH33sxyDbQEdZ5QmIVHKgdhiFiEAXA==",
+  "dgSpecHash": "O+j9OVSIrsJ+cmP6IklwPjxNlXCT+h2ZP5DS21LR1ze4gWxMIHDaVDZ2buG76jKVUcMm0xkxkni1ToCuVIr0BQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\B09S116est\\taller-2-scriptim\\punto_2\\punto_2.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\documentos\\taller-2-scriptim\\punto_2\\punto_2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.26\\microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.26\\microsoft.windowsdesktop.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.26\\microsoft.aspnetcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.26\\microsoft.netcore.app.host.win-x64.6.0.26.nupkg.sha512"
+  ],
   "logs": []
 }
