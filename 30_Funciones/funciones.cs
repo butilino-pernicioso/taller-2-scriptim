@@ -22,3 +22,13 @@ double Dividir(double a, double b)
     else
         throw new DivideByZeroException("No se puede dividir por cero.");
 }
+
+int Maximo(int a, int b)
+{
+    return Math.Max(a, b);
+}
+
+int Minimo(int a, int b)
+{
+    return Math.Min(a, b);
+}
