@@ -1,11 +1,14 @@
-# taller-2-scriptim
+# Participantes:
+Juan Esteban Calle
+Nicolás Parra
 
+# taller-2-scriptim
 1. Explicar por medio de un ejemplo de mínimo 5 funciones el concepto de delegado
 2. Consultar y crear un ejemplo donde se evidencie el uso de event en  **c#** 
 3. Consultar que es singleton, sus pros y contras, como se implementa en  **c#** y como se implementa en  **unity**
 4. Investigar y explicar un patrón de poo y un principio 
 5. consultar y explicar el siclo de vida de un script en  **unity**
-6. hacer 30 funciones
+6. hacer 30 commits
 
 ## solucion
 3. consultar y crear un ejemplo donde se evidencie el uso de event en c#
