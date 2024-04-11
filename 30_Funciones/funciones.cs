@@ -55,3 +55,8 @@ double AreaCirculo(double radio)
 {
     return Math.PI * Math.Pow(radio, 2);
 }
+
+int ContarCaracteres(string cadena)
+{
+    return cadena.Length;
+}
