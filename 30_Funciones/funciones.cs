@@ -40,3 +40,13 @@ int Factorial(int n)
     else
         return n * Factorial(n - 1);
 }
+
+bool EsPar(int num)
+{
+    return num % 2 == 0;
+}
+
+bool EsImpar(int num)
+{
+    return num % 2 != 0;
+}
