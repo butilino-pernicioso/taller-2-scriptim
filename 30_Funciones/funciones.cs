@@ -70,3 +70,8 @@ int LCM(int a, int b)
 {
     return (a * b) / MCD(a, b);
 }
+
+string ConvertirAMayusculas(string cadena)
+{
+    return cadena.ToUpper();
+}
