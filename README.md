@@ -1,6 +1,7 @@
 # Participantes:
-Juan Esteban Calle
-Nicolás Parra
+- Emmanuel Lora
+- Juan Esteban Calle
+- Nicolás Parra
 
 # taller-2-scriptim
 1. Explicar por medio de un ejemplo de mínimo 5 funciones el concepto de delegado
